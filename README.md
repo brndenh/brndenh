@@ -8,17 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/brndenh">
-    <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/brndenh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para-Freelas-16a34a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Fullstack-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
 </p>
 
 ---
