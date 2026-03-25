@@ -5,7 +5,7 @@
 <h1 align="center">Bruno Rafael</h1>
 
 <p align="center">
-  Desenvolvedor Front-end em formação • HTML • CSS • JavaScript
+  Desenvolvedor FullStack em Formação • HTML • CSS • JavaScript
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Busco oportunidades para:
 ## 🛠️ Tecnologias e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react" />
 </p>
 
 
