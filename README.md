@@ -64,28 +64,13 @@
 
 ## Contato
 
-<table align="center">
-  <tr>
-    <td align="center">
+<p align="center">
       <a href="https://github.com/brndenh"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /></a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/brndenh"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" /></a>
-    </td>
-  </tr>
-</table>
-
-## Contato
-
-<p align="center">
-  <a href="https://github.com/brndenh">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brndenh">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-  </a>
 </p>
+
 
 ---
 
