@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Bruno%20Rafael&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20em%20forma%C3%A7%C3%A3o&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="assets/3c902bc3-2a7e-409a-ba94-66960bc65ae1.jpg" width="100%" />
 </p>
 
 <p align="center">
