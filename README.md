@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/3c902bc3-2a7e-409a-ba94-66960bc65ae1.jpg" width="100%" />
+  <img src="assets/banner.jpg" width="100%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td width="230" align="center">
-      <img src="assets/58564493-5fef-4a40-a091-8253c443d3c6.jpg" width="100" height="250" alt="Foto de perfil Bruno Rafael" />
+      <img src="assets/profile.jpg" width="200" alt="Foto de perfil Bruno Rafael" />
     </td>
     <td>
       <p>
