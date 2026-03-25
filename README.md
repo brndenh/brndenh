@@ -68,15 +68,9 @@
   <a href="https://github.com/brndenh">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brndenh">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/brndenh"><strong>GitHub</strong></a> 
-  <a href="https://www.linkedin.com/in/brndenh"><strong>LinkedIn</strong></a> 
 </p>
 
 ---
