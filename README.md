@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.jpg" width="100%" />
 </p>
-
+<h1 align="center">Bruno Rafael</h1>
 <p align="center">
   Desenvolvedor Fullstack em formação • HTML • CSS • JavaScript • React
 </p>
